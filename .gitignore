@@ -1,0 +1,20 @@
+# Maxfiy ma'lumotlar
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# Bot tomonidan generatsiya qilingan fayllar
+generated_files/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
